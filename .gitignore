@@ -1,0 +1,7 @@
+# Add ignored files
+.DS_Store
+*.csv
+.ipynb_checkpoints/
+*.png
+
+
